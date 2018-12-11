@@ -1,3 +1,6 @@
+
+注意idea中，要设置src为源码路径，才可以右键运行*.java文件。
+
 <p align=center>
   <a href="https://github.com/Jasonandy/Java-Core-Advanced">
     <img src="http://upload-images.jianshu.io/upload_images/7802425-9eb1bcd006e34aa6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Java-Core-Advanced" >
